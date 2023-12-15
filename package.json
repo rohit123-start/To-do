@@ -11,11 +11,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^2.0.0-beta.1",
+    "circular-json": "^0.5.9",
     "dotenv": "^16.0.1",
     "express": "^5.0.0-beta.1",
-    "mysql2": "^2.3.3"
+    "mysql2": "^2.3.3",
+    "node": "^21.2.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.16"
+    "nodemon": "^2.0.22"
   }
 }
